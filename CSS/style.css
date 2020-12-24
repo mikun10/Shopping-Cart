@@ -28,3 +28,6 @@ header{
     width:  20rem;
     max-width: 90%;
 }
+button{
+    background: red;
+}
