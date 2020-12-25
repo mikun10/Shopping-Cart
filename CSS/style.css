@@ -31,3 +31,8 @@ header{
 button{
     background: red;
 }
+.cart h2{
+    margin: 0px;
+    font-size: 1.5rem;
+    color: #540075;
+}
